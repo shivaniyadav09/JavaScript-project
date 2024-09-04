@@ -19,5 +19,5 @@ Under Weight = Less than 18.6
 Normal Range = 18.6 and 24.9
 
 Overweight = Greater than 24.9
-
+----------------------------------------------
 This is the overview of the bmi calculator.
